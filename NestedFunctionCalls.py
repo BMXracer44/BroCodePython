@@ -10,3 +10,5 @@
 #print(num)
 
 print(round(abs(float(input("Enter a whole positive number: ")))))
+#Completes the same task as above, but uses less lines of code
+
